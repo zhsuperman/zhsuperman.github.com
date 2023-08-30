@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
+baseurl = "https://zhsuperman.github.io"
 languageCode = "zh-cn"
 paginate = 10
 title = "Superman"
