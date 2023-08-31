@@ -15,10 +15,14 @@ tags:
 weight: 1
 ---
 
-## 这是一个文章
+## 这是第一篇文章
 
-这是一个文章
+这是一个文章，用来测试hugo的功能。尝试md支持的功能。
 
-## 这是一个文章
+## 来段代码
 
-这是一个文章
+```objective-c
+- (void)doSomething {
+    NSLog(@"Hello World!");
+}
+```

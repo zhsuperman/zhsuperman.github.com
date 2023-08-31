@@ -7,7 +7,7 @@ menu:
     main:
         weight: 3
         params: 
-            icon: archives
+            icon: about
 comments: false
 license: false
 readingTime: false
